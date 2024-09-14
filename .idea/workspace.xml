@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1df820a8-e969-4094-bf92-a3b8d12c750b" name="Changes" comment="Problem Solution">
-      <change afterPath="$PROJECT_DIR$/Delete Head of A Doubly Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reverse a Doubly Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,9 @@
     "accountId": "cbb22d6a-859e-4bc9-9ff7-36e6e2069648"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -45,11 +49,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Delete Head of A Doubly Linked List.executor": "Run",
+    "Python.Delete Last Node of DLL in Python.executor": "Run",
     "Python.Doubly linked list Insertion at given position.executor": "Run",
+    "Python.Reverse a Doubly Linked List.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\lenovo\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="3741c70b-ba95-4cef-9d8d-9ce362db50d8" reportId="dsa-python-self-paced/qodana/2024-09-14" />
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="Doubly linked list Insertion at given position" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="dsa-python-self-paced" />
@@ -98,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726318732953</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Problem Solution">
+      <option name="closed" value="true" />
+      <created>1726319535163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726319535163</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Problem Solution">
+      <option name="closed" value="true" />
+      <created>1726320267961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726320267961</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
